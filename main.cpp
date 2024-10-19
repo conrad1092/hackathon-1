@@ -1,7 +1,7 @@
 #include <iostream>
-#include "budget.cpp"
+#include "budget.h"
 using namespace std;
 
 int main(){
-    
+    Budget carlos();
 }
